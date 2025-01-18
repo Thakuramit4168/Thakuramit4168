@@ -1,5 +1,7 @@
 # About Me - Software Developer (Frontend)
 
+### [My Portfolio](https://amit-thakur-portfolio.vercel.app/)
+
 Welcome to my GitHub! 👋
 
 I'm a **Frontend Software Developer** with a focus on **ReactJS**, **NextJS**, and **TypeScript**. I specialize in creating scalable, efficient, and modern web applications that are both user-friendly and performance-oriented. With a passion for clean code and robust architecture, I am constantly learning new technologies to stay up-to-date with the latest trends in frontend development.
